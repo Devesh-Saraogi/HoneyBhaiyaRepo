@@ -1,4 +1,6 @@
 venv/
 data/
-Dev1_ImageEmbeddingsCLIP.ipynb
+prod2.py
 Resources.txt
+main.py
+ImageToMetadata.ipynb
